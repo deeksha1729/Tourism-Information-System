@@ -1,4 +1,4 @@
-How to run the Tourism Management System (TMS) Project
+How to run the Tourism Information System (TIS) Project
 
 1. Download the zip file
 
